@@ -1,0 +1,11 @@
+{
+  "name": "hashcode-2020",
+  "version": "9000.0.1",
+  "author": "the personalisation pals",
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "scripts": {
+    "start": "node -r esm ./index.js"
+  }
+}
